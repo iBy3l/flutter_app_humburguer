@@ -1,6 +1,15 @@
-|img | gif |
-|------|-------|
-|<img src="https://github.com/negy-iby3l/flutter_app_humburguer/blob/main/images/Screenshot_2021-09-27-17-20-11-609_com.example.flutter_app_hamburguer.jpg" width="400">|<img src="https://github.com/negy-iby3l/flutter_app_humburguer/blob/main/images/flutter_app_hamburguer.gif" width="400p">|
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-# flutter_app_humburguer
-# flutter_app_humburguer
+
+# Buscador de Gifs Demo
+
+<p align="center"><img src="https://github.com/iBy3l/flutter_app_humburguer/blob/main/hamb.gif"></p>
+
+
+## About the App
+```
+   . Simple Application UI
+```
