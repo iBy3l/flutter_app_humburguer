@@ -5,6 +5,7 @@ class Header extends StatefulWidget {
   _nameState createState() => _nameState();
 }
 
+// ignore: camel_case_types
 class _nameState extends State<Header> {
   @override
   Widget build(BuildContext context) {
